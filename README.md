@@ -1,5 +1,5 @@
-*VERSION 3.21*
-*FILE METHOD 1,2 *
+*VERSION 3.22*
+*FILE METHOD 1,2,3*
 *MAFIA M16 FILE*
 
 
@@ -13,4 +13,4 @@ cd M01
 
 git pull
 
-python3 M16.py
+python3 M16
