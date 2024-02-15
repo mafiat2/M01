@@ -15,4 +15,4 @@ cd M01
 
 git pull
 
-python3 M16
+python3 M1
